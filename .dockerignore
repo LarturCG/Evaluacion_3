@@ -1,0 +1,11 @@
+.git
+.venv
+__pycache__
+*.py[cod]
+*.db
+.pytest_cache
+tests
+secrets
+scripts_utiles
+README.md
+SECURITY-REVIEW.md
