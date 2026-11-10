@@ -55,3 +55,13 @@
 - **Severidad:** Media
 - **Hallazgo:** El respaldo `main.py.bak` exponía rutas sin autenticación, incluida una ruta de reinicio destructivo; el generador de tokens y los scripts de saldo/monitorización eran incompatibles con el despliegue seguro nuevo.
 - **Resolución:** Se retiraron esos archivos de la aplicación distribuida. Se conserva el exportador de rutas, que no accede a datos ni credenciales.
+
+
+
+
+
+Participantes:
+1) Leonardo     
+V3xxxxxx
+2) Kevyn Duque
+V27566599
